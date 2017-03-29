@@ -1,0 +1,6 @@
+name: wjimenez5271/iron-test
+version: 0.0.1
+runtime: go
+entrypoint: ./func
+path: /iron-test
+max_concurrency: 1
