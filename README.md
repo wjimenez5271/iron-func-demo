@@ -23,7 +23,7 @@ This will deploy the application to the Iron Functions stack and create a route.
 http://host:8080/r/myapp/hello
 ```
 
-which should yeild
+which should yield
 
 ```
 curl -i http://host:8080/r/myapp/hello
